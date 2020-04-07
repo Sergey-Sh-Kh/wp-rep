@@ -19,7 +19,7 @@ $sidebar_mob = get_field('sidebar_mob', $taxonomy . '_' . $term_id);
 				<h6 style="text-align: center;border-bottom: 2px solid #00000021;padding-bottom: 15px;">Фильтры</h6>
 				<div class="acc-head">
 					<h6 class="link-orange" style="margin: unset;">Модель транспорта</h6>
-					<img src="https://www.1tahograf.ru/img/arrow.gif" style="width: 20px;">
+					<img src="/img/arrow.gif" style="width: 20px;">
 				</div>
 				<div class="acc-body">
 					<ul>
@@ -34,7 +34,7 @@ $sidebar_mob = get_field('sidebar_mob', $taxonomy . '_' . $term_id);
 				</div>
 				<div class="acc-head">
 					<h6 class="link-orange" style="margin: unset;">Производитель</h6>
-					<img src="https://www.1tahograf.ru/img/arrow.gif" style="width: 20px;">
+					<img src="/img/arrow.gif" style="width: 20px;">
 				</div>
 				<div class="acc-body">
 					<ul>
@@ -49,7 +49,7 @@ $sidebar_mob = get_field('sidebar_mob', $taxonomy . '_' . $term_id);
 				</div>
 				<div class="acc-head">
 					<h6 class="link-orange" style="margin: unset;">Длинна погружной части</h6>
-					<img src="https://www.1tahograf.ru/img/arrow.gif" style="width: 20px;">
+					<img src="/img/arrow.gif" style="width: 20px;">
 				</div>
 				<div class="acc-body">
 					<ul>
